@@ -10,3 +10,4 @@ Molesto411 - Host
 Volas - Game Master
 Amb1ent - Game Admin
 Belfogor - Game Admin
+Logimy - Game Admin
